@@ -31,14 +31,5 @@ public class DiamondPrinting {
 
 
 
-// for (int rows = 1; rows < 9; rows += 2) {
-//            for (int column = 0; column < 9 - rows / 2; column++)
-//                System.out.print(" ");
-//            for (int colum = 0; colum < rows; colum++)
-//                System.out.print("*");
-//
-//            System.out.println("\n");
-//        }
-
 
 
